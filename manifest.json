@@ -11,9 +11,9 @@
     {
       "version": "1.1",
       "js": [
-        "bundle.52c7c946",
-        "bundle.b7fafae0",
-        "bundle.06d48aab"
+        "manifext.bundle",
+        "vendor.bundle",
+        "main.bundle"
       ]
     }
   ]
