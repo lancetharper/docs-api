@@ -3,9 +3,9 @@
     {
       "version": "1.0",
       "js": [
-        "bundle.52c7c946",
-        "bundle.b7fafae0",
-        "bundle.06d48aab"
+        "bundle.52c7c946.js",
+        "bundle.b7fafae0.js",
+        "bundle.06d48aab.js"
       ],
       "dev": [
         "https://rawgit.com/lancetharper/docs-api/master/js/1.0/bundle.52c7c946.js",
@@ -16,14 +16,14 @@
     {
       "version": "1.1",
       "js": [
-        "manifest.bundle",
-        "vendor.bundle",
-        "main.bundle"
+        "manifest.bundle.js",
+        "vendor.bundle.js",
+        "main.bundle.js"
       ],
       "dev": [
-        "https://rawgit.com/lancetharper/docs-api/master/js/1.0/manifest.bundle.js",
-        "https://rawgit.com/lancetharper/docs-api/master/js/1.0/vendor.bundle.js",
-        "https://rawgit.com/lancetharper/docs-api/master/js/1.0/main.bundle.js"
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.1/manifest.bundle.js",
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.1/vendor.bundle.js",
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.1/main.bundle.js"
       ]
     }
   ]
