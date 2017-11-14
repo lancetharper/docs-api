@@ -1,9 +1,12 @@
 {
-  "1.0": {
-    "js": [
-      "bundle.52c7c946",
-      "bundle.b7fafae0",
-      "bundle.06d48aab"
-    ]
-  }
+  "versions": [
+    {
+      "version": "1.0",
+      "js": [
+        "bundle.52c7c946",
+        "bundle.b7fafae0",
+        "bundle.06d48aab"
+      ]
+    }
+  ]
 }
