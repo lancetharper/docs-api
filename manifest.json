@@ -6,6 +6,11 @@
         "bundle.52c7c946",
         "bundle.b7fafae0",
         "bundle.06d48aab"
+      ],
+      "dev": [
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.0/bundle.52c7c946.js",
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.0/bundle.b7fafae0.js",
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.0/bundle.06d48aab.js"
       ]
     },
     {
@@ -14,6 +19,11 @@
         "manifest.bundle",
         "vendor.bundle",
         "main.bundle"
+      ],
+      "dev": [
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.0/manifest.bundle.js",
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.0/vendor.bundle.js",
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.0/main.bundle.js"
       ]
     }
   ]
