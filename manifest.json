@@ -21,9 +21,9 @@
         "main.bundle.js"
       ],
       "dev": [
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.1/main.bundle.js",
         "https://rawgit.com/lancetharper/docs-api/master/js/1.1/manifest.bundle.js",
-        "https://rawgit.com/lancetharper/docs-api/master/js/1.1/vendor.bundle.js",
-        "https://rawgit.com/lancetharper/docs-api/master/js/1.1/main.bundle.js"
+        "https://rawgit.com/lancetharper/docs-api/master/js/1.1/vendor.bundle.js"
       ]
     }
   ]
